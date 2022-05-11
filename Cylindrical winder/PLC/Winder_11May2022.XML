@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DockingPaneLayouts CompactMode="1">
+	<DSP_PANE_SECTION>
+		<Summary Panes="18" TopContainer="11" Client="17"/>
+		<Pane-1 Type="0" DockingCX="360" DockingCY="286" Title="XRef View\n\n" ID="59502" DockingHolder="14" FloatingHolder="7" LastHolder="14"/>
+		<Pane-2 Type="0" DockingCX="360" DockingCY="286" Title="Data3\n\n" ID="59504" DockingHolder="15" FloatingHolder="10" LastHolder="15"/>
+		<Pane-3 Type="0" DockingCX="1024" DockingCY="100" Title="Output\nOutput Window\n" ID="59503" DockingHolder="18" LastHolder="18"/>
+		<Pane-4 Type="5" Direction="0" Panes="0"/>
+		<Pane-5 Type="3" WindowRectTopPos="171" WindowRectBottomPos="457" WindowRectLeftPos="-15" WindowRectRightPos="345" TopContaner="6"/>
+		<Pane-6 Type="2" DockingCX="360" DockingCY="139" Horiz="1" Panes="1" Pane-1="7"/>
+		<Pane-7 Type="1" DockingCX="360" DockingCY="139" Panes="0"/>
+		<Pane-8 Type="3" WindowRectTopPos="283" WindowRectBottomPos="569" WindowRectLeftPos="31" WindowRectRightPos="391" TopContaner="9"/>
+		<Pane-9 Type="2" DockingCX="360" DockingCY="410" Horiz="1" Panes="1" Pane-1="10"/>
+		<Pane-10 Type="1" DockingCX="360" DockingCY="410" Panes="0"/>
+		<Pane-11 Type="2" DockingCX="1852" DockingCY="642" Panes="2" Pane-1="12" Pane-2="18"/>
+		<Pane-12 Type="2" DockingCY="791" Horiz="1" Panes="2" Pane-1="13" Pane-2="16"/>
+		<Pane-13 Type="2" DockingCX="510" DockingCY="575" Panes="2" Pane-1="14" Pane-2="15"/>
+		<Pane-14 Type="1" DockingCX="360" DockingCY="101" Panes="1" Selected="1" Pane-1="1"/>
+		<Pane-15 Type="1" DockingCX="360" DockingCY="470" Panes="1" Selected="2" Pane-1="2"/>
+		<Pane-16 Type="2" DockingCX="1338" Panes="1" Pane-1="17"/>
+		<Pane-17 Type="4" DockingCY="436"/>
+		<Pane-18 Type="1" DockingCX="1024" DockingCY="63" Panes="1" Selected="3" Pane-1="3"/>
+	</DSP_PANE_SECTION>
+</DockingPaneLayouts>
